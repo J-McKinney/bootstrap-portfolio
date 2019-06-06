@@ -31,11 +31,7 @@ h1 {
 }
 
 footer {
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
+    position: sticky;
+    border-top: 8px solid #4aaaa5;
+    color: black;
 }
