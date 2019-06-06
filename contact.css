@@ -1,0 +1,25 @@
+body {
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.jumbotron {
+    margin-top: 5%;
+    margin-right: 14.158636%;
+    margin-left: 14.158636%;
+    /* background-image: url(LE_Blue-Hour_01.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    line-height: 200%;
+    background: white!important;
+}
+
+.full img {
+    text-align: center;
+    margin-left: 2.1%;
+    margin-right: 2.1%;
+    margin-top: 5%;
+    margin-bottom: 1.1%;
+
+}

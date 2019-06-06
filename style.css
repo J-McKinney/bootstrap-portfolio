@@ -1,0 +1,41 @@
+body {
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#index {
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin-top: 5%;
+    margin-right: 14.158636%;
+    margin-left: 14.158636%;
+    /*background-color: white!important;*/
+    /* border-bottom: 2px solid #4aaaa5; */
+    background-image: url(Bubbles.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    line-height: 200%;
+}
+
+h1 {
+    color: white;
+}
+
+#paragraph {
+    text-indent: 5em;
+    margin-top: 5%;
+    color: midnightblue;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
