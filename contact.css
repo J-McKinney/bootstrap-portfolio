@@ -1,6 +1,6 @@
 body {
     background-size: cover;
-	background-repeat: no-repeat;
+    background-repeat: no-repeat;
 }
 
 .jumbotron {
@@ -15,11 +15,40 @@ body {
     background: white!important;
 }
 
-.full img {
+#exampleFormControlTextarea1 {
+    resize: none;
+}
+
+/* .full img {
     text-align: center;
     margin-left: 2.1%;
     margin-right: 2.1%;
     margin-top: 5%;
     margin-bottom: 1.1%;
+} */
 
+footer {
+    position: sticky;
+    border-top: 8px solid #4aaaa5;
+    color: black;
+    background-color: grey;
+    padding: 2%;
+    margin-top: 5%;
+    font-size: 1.3em;
 }
+
+a:link {
+    color: black;
+  }
+  
+a:visited {
+    color: black;
+  }
+  
+a:hover {
+    color: black;
+  }
+  
+a:active {
+    color: black;
+  }

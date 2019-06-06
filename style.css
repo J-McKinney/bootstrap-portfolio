@@ -34,4 +34,24 @@ footer {
     position: sticky;
     border-top: 8px solid #4aaaa5;
     color: black;
+    background-color: grey;
+    padding: 2%;
+    margin-top: 5%;
+    font-size: 1.3em;
 }
+
+a:link {
+    color: black;
+  }
+  
+a:visited {
+    color: black;
+  }
+  
+a:hover {
+    color: black;
+  }
+  
+a:active {
+    color: black;
+  }
